@@ -19,5 +19,10 @@ namespace theadd
         {
             return x + y;
         }
+        //Added another method 12-6-17 (at 13:00)
+        public float Multi(float m1, float m2)
+        {
+            return m1 * m2;
+        }
     }
 }
